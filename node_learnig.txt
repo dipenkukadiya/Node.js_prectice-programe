@@ -1,0 +1,25 @@
+--> node asynchronous framework che js nu for backend 
+filesystem and database crud 
+
+--> cant wait other code to finish ,its continous
+
+-->  package and module ne ek j kevay
+
+-->  http module server create karva mate thay che 
+npm i thi bdha package install krvama aave and bdhane
+const http =requre('http') em bdha ne import kri skay .
+
+--> nodemon--> npm i nodemoon -g aa command run krvathi
+module globalyy install thse....and bdhi var run krvo pde js no project to 
+thoda change mate to e time waste thay to ena mate nodemoon use krvama aave che
+
+--> after that node index ni jgya ae  aapne nodemon  index thi continue
+browsder chlavi skiae chhiae to changes direct joi skiae.
+
+--> node one threded script che pn asynchronize che 
+koi no wait nthi krti ...next valu excution krse.
+
+-->ek path kri ne module che ena thi e path pr file
+create and delete and write kriskiae like 
+path.join(__dirname,"crud") to e directory pr ek folder 
+crud hse to ema aapne create , delete kri sksu.
