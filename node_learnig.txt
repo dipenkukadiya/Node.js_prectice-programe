@@ -1,25 +1,48 @@
 --> node asynchronous framework che js nu for backend 
 filesystem and database crud 
 
+--> let, var, const thi variable declaratiion kri skiye
+ane function declare krva mate function(){
+
+                                return() 
+                                        }
+
 --> cant wait other code to finish ,its continous
 
--->  package and module ne ek j kevay
+-->  package and module ne ek j kevay and 2 typr na module hoi
+ek CORE MODULE je aapne install and define krva pde jyare bija
+GLOBAL MODULE je alreadi instalml and define hoy che 
+
+ARROW function-->
+
+                const Dipen =(parameter pass kri skiye) =>{
+
+
+                }
+
+        const fs = require('fs')---> file system mate no module
+        const http = require ('http') ----> http server create krva mate 
+
+
 
 -->  http module server create karva mate thay che 
 npm i thi bdha package install krvama aave and bdhane
-const http =requre('http') em bdha ne import kri skay .
+-------  const http =requre('http')---------- em bdha ne import kri skay .
 
 --> nodemon--> npm i nodemoon -g aa command run krvathi
 module globalyy install thse....and bdhi var run krvo pde js no project to 
 thoda change mate to e time waste thay to ena mate nodemoon use krvama aave che
 
---> after that node index ni jgya ae  aapne nodemon  index thi continue
+--> after that *****node index**** ni jgya ae  aapne ****nodemon index***** thi continue
 browsder chlavi skiae chhiae to changes direct joi skiae.
 
 --> node one threded script che pn asynchronize che 
 koi no wait nthi krti ...next valu excution krse.
 
+example in => asynchro.js
+
 -->ek path kri ne module che ena thi e path pr file
 create and delete and write kriskiae like 
 path.join(__dirname,"crud") to e directory pr ek folder 
 crud hse to ema aapne create , delete kri sksu.
+example => filecrud.js
